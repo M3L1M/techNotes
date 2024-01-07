@@ -1,0 +1,446 @@
+!SESSION 2024-01-05 10:39:13.854 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=21.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-05 10:39:16.323
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-05 10:39:16.661
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-05 10:39:30.596
+!MESSAGE Logback config file: E:\Gabriel-Melim\Projetos\techNotes\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-01-05 10:39:32.979
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-05 10:39:32.979
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-05 10:39:36.882
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Gabriel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-01-05 10:47:38.352
+!MESSAGE No digest algorithm is available to verify download of org.eclipse.update.feature,org.projectlombok.feature,1.18.30.
+
+!ENTRY org.eclipse.equinox.p2.artifact.repository 2 0 2024-01-05 10:47:38.352
+!MESSAGE No digest algorithm is available to verify download of osgi.bundle,org.projectlombok.agent,1.18.30.
+!SESSION 2024-01-05 10:47:54.135 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=21.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/E:/Gabriel-Melim/Projetos/techNotes/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-05 10:47:58.625
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-05 10:47:58.886
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-05 10:48:01.785
+!MESSAGE Logback config file: E:\Gabriel-Melim\Projetos\techNotes\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-01-05 10:48:03.835
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-05 10:48:03.835
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-05 10:48:09.518
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Gabriel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 0 2024-01-05 10:50:50.221
+!MESSAGE Save Failed
+!STACK 0
+java.lang.IllegalArgumentException: Illegal value: -1
+	at org.eclipse.core.internal.resources.Resource.revertModificationStamp(Resource.java:1633)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:348)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.jdt.internal.ui.javaeditor.DocumentAdapter.save(DocumentAdapter.java:516)
+	at org.eclipse.jdt.internal.core.CommitWorkingCopyOperation.executeOperation(CommitWorkingCopyOperation.java:127)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:742)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:813)
+	at org.eclipse.jdt.internal.core.CompilationUnit.commitWorkingCopy(CompilationUnit.java:405)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.commitWorkingCopy(CompilationUnitDocumentProvider.java:1411)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider$3.execute(CompilationUnitDocumentProvider.java:1488)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider$DocumentProviderOperation.run(TextFileDocumentProvider.java:133)
+	at org.eclipse.ui.actions.WorkspaceModifyDelegatingOperation.execute(WorkspaceModifyDelegatingOperation.java:71)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.lambda$0(WorkspaceModifyOperation.java:110)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:131)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:76)
+	at org.eclipse.ui.internal.editors.text.WorkspaceOperationRunner.run(WorkspaceOperationRunner.java:66)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.executeOperation(TextFileDocumentProvider.java:461)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.saveDocument(TextFileDocumentProvider.java:783)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.performSave(AbstractTextEditor.java:5009)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.performSave(CompilationUnitEditor.java:1267)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSave(CompilationUnitEditor.java:1321)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.doSave(AbstractTextEditor.java:7185)
+	at org.eclipse.ui.Saveable.doSave(Saveable.java:213)
+	at org.eclipse.ui.internal.SaveableHelper.doSaveModel(SaveableHelper.java:333)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$1(SaveableHelper.java:196)
+	at org.eclipse.ui.internal.SaveableHelper.lambda$3(SaveableHelper.java:271)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:436)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:352)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$7(WorkbenchWindow.java:2348)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2345)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:278)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:260)
+	at org.eclipse.ui.internal.SaveableHelper.saveModels(SaveableHelper.java:207)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:150)
+	at org.eclipse.ui.internal.WorkbenchPage.saveSaveable(WorkbenchPage.java:3825)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3838)
+	at org.eclipse.ui.internal.handlers.SaveHandler.execute(SaveHandler.java:82)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:283)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:99)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:298)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:232)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:174)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:165)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:488)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:485)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:308)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:580)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:655)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:439)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:96)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1286)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1065)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1117)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1113)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1594)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4866)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:345)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4744)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3657)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2024-01-05 10:51:07.320
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:284)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:242)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.isValid(DynamicValidationStateChange.java:97)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:242)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SUBENTRY 1 org.eclipse.core.filebuffers 2 274 2024-01-05 10:51:07.321
+!MESSAGE File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2024-01-05 10:51:18.880
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:284)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:242)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.isValid(DynamicValidationStateChange.java:97)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.isValid(CompositeChange.java:242)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:247)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SUBENTRY 1 org.eclipse.core.filebuffers 2 274 2024-01-05 10:51:18.881
+!MESSAGE File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2024-01-05 10:51:25.014
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:284)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.performChange(ChangeCorrectionProposal.java:168)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.apply(ChangeCorrectionProposal.java:109)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:561)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$4.widgetSelected(AbstractAnnotationHover.java:532)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1107)
+	at org.eclipse.swt.widgets.Link.wmNotifyChild(Link.java:725)
+	at org.eclipse.swt.widgets.Control.wmNotify(Control.java:5798)
+	at org.eclipse.swt.widgets.Composite.wmNotify(Composite.java:1961)
+	at org.eclipse.swt.widgets.Control.WM_NOTIFY(Control.java:5366)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4800)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Link.callWindowProc(Link.java:162)
+	at org.eclipse.swt.widgets.Widget.wmLButtonUp(Widget.java:2025)
+	at org.eclipse.swt.widgets.Control.WM_LBUTTONUP(Control.java:5179)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4781)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3657)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SUBENTRY 1 org.eclipse.core.filebuffers 2 274 2024-01-05 10:51:25.014
+!MESSAGE File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2024-01-05 10:51:31.009
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:284)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.performChange(ChangeCorrectionProposal.java:168)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.apply(ChangeCorrectionProposal.java:109)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:561)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$4.widgetSelected(AbstractAnnotationHover.java:532)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1107)
+	at org.eclipse.swt.widgets.Link.wmNotifyChild(Link.java:725)
+	at org.eclipse.swt.widgets.Control.wmNotify(Control.java:5798)
+	at org.eclipse.swt.widgets.Composite.wmNotify(Composite.java:1961)
+	at org.eclipse.swt.widgets.Control.WM_NOTIFY(Control.java:5366)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4800)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Link.callWindowProc(Link.java:162)
+	at org.eclipse.swt.widgets.Widget.wmLButtonUp(Widget.java:2025)
+	at org.eclipse.swt.widgets.Control.WM_LBUTTONUP(Control.java:5179)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4781)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3657)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SUBENTRY 1 org.eclipse.core.filebuffers 2 274 2024-01-05 10:51:31.009
+!MESSAGE File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2024-01-05 10:51:43.816
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.core.runtime.CoreException: File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.commitFileBufferContent(ResourceTextFileBuffer.java:284)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.commit(ResourceFileBuffer.java:317)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange$ValidationState.saveIfDirty(ResourceChange.java:253)
+	at org.eclipse.ltk.core.refactoring.resource.ResourceChange.isValid(ResourceChange.java:148)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.performChange(ChangeCorrectionProposal.java:168)
+	at org.eclipse.jdt.ui.text.java.correction.ChangeCorrectionProposal.apply(ChangeCorrectionProposal.java:109)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.apply(AbstractAnnotationHover.java:561)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl$4.widgetSelected(AbstractAnnotationHover.java:532)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendSelectionEvent(Widget.java:1107)
+	at org.eclipse.swt.widgets.Link.wmNotifyChild(Link.java:725)
+	at org.eclipse.swt.widgets.Control.wmNotify(Control.java:5798)
+	at org.eclipse.swt.widgets.Composite.wmNotify(Composite.java:1961)
+	at org.eclipse.swt.widgets.Control.WM_NOTIFY(Control.java:5366)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4800)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Link.callWindowProc(Link.java:162)
+	at org.eclipse.swt.widgets.Widget.wmLButtonUp(Widget.java:2025)
+	at org.eclipse.swt.widgets.Control.WM_LBUTTONUP(Control.java:5179)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4781)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3657)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SUBENTRY 1 org.eclipse.core.filebuffers 2 274 2024-01-05 10:51:43.816
+!MESSAGE File is not synchronized with the local file system: file:/E:/Gabriel-Melim/Projetos/techNotes/techNotes-api/src/main/java/com/techNotes/techNotesapi/model/entity/Users.java
+!SESSION 2024-01-06 18:36:30.379 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=21.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-01-06 18:36:34.705
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-06 18:36:35.072
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-01-06 18:36:50.640
+!MESSAGE Logback config file: E:\Gabriel-Melim\Projetos\techNotes\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-01-06 18:36:52.737
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-01-06 18:36:52.737
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-01-06 18:37:00.365
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Gabriel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

@@ -1,0 +1,12 @@
+package com.techNotes.techNotesapi.service;
+
+import java.util.List;
+
+import com.techNotes.techNotesapi.model.entity.UserRoles;
+
+public interface UserRolesService {
+	public void createNewRole(List<UserRoles> userRoles);
+	public UserRoles updateUser(Integer id,UserRoles userRoles);
+	public Integer deleteUser(Integer id);
+	public void formatSave(UserRoles userRoles, List<String> role);
+}

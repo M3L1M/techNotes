@@ -1,0 +1,5 @@
+package com.techNotes.techNotesapi.exception;
+
+public class BusinessRulesException extends Exception {
+
+}

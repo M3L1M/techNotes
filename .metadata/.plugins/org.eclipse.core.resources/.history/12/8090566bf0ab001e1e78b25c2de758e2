@@ -1,0 +1,36 @@
+package com.techNotes.techNotesapi.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.techNotes.techNotesapi.model.entity.UserRoles;
+import com.techNotes.techNotesapi.model.repository.UserRolesRepository;
+import com.techNotes.techNotesapi.service.UserRolesService;
+
+import jakarta.transaction.Transactional;
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
+@Service
+public class UserRolesServiceImpl implements UserRolesService {
+	
+	private final UserRolesRepository repository;
+	@Override
+	@Transactional
+	public UserRoles createNewUser(UserRoles userRoles) {
+		
+		return repository.save(userRoles);
+	}
+
+	@Override
+	public UserRoles updateUser(Integer id, UserRoles userRoles) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer deleteUser(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

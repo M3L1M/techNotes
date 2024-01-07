@@ -1,0 +1,10 @@
+package com.techNotes.techNotesapi.service;
+
+import com.techNotes.techNotesapi.model.entity.User;
+import com.techNotes.techNotesapi.model.entity.UserRoles;
+
+public interface UserRolesService {
+	public User createNewUser(UserRoles userRoles);
+	public User updateUser(Integer id,UserRoles userRoles);
+	public Integer deleteUser(Integer id);
+}

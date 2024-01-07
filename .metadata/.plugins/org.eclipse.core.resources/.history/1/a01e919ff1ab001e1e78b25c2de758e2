@@ -1,0 +1,34 @@
+package com.techNotes.techNotesapi.model.entity;
+
+import java.util.List;
+
+import com.techNotes.techNotesapi.model.entity.enums.Role;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+import jakarta.persistence.Table;
+import lombok.*;
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Table(name="`user_roles`")
+public class UserRoles {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Integer id;
+	
+	@ManyToOne
+	@JoinColumn(name="id_user")
+	private User idUser;
+	
+	@Enumerated(EnumType.STRING)
+	private List<Role> role;
+}

@@ -1,0 +1,5 @@
+package com.techNotes.techNotesapi.service;
+
+public interface UserRolesService {
+
+}

@@ -1,0 +1,27 @@
+package com.techNotes.techNotesapi.service.impl;
+
+import com.techNotes.techNotesapi.model.entity.User;
+import com.techNotes.techNotesapi.model.entity.UserRoles;
+import com.techNotes.techNotesapi.service.UserRolesService;
+
+public class UserRolesServiceImpl implements UserRolesService {
+
+	@Override
+	public User createNewUser(UserRoles userRoles) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User updateUser(Integer id, UserRoles userRoles) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer deleteUser(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

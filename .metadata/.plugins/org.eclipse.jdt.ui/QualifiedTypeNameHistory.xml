@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Builder"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.techNotes.techNotesapi.model.entity.User"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.techNotes.techNotesapi.model.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.techNotes.techNotesapi.model.repository.UserRolesRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.techNotes.techNotesapi.model.entity.UserRoles"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.support.Repositories"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.techNotes.techNotesapi.model.entity.enums.Role"/>
+</qualifiedTypeNameHistroy>
